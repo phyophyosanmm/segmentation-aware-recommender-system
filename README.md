@@ -173,27 +173,6 @@ The proposed segmentation-aware recommendation framework outperformed traditiona
 
 ---
 
-# ⚙️ Installation
-
-## 📥 Clone the Repository
-
-```bash id="s8n2ak"
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-## 📦 Install Dependencies
-
-```bash id="md2xq3"
-pip install -r requirements.txt
-```
-
-## ▶️ Run the Project
-
-```bash id="a3d9lm"
-python main.py
-```
-
----
 
 # 🔮 Future Improvements
 
